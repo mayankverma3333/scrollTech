@@ -1,0 +1,63 @@
+.navbar a{
+    font-family:poppins;
+    color:#777;
+}
+.navbar-brand{
+    color:#000 !important;
+    font-family:roboto !important;
+    font-weight:bold;
+}
+.navbar{
+    background-color:#fff;
+}
+span{
+    background-color:rgba(0,0,0,0.5);
+}
+
+#showcase{
+    margin-top:80px;
+    font-family:roboto;
+}
+#showcase-left img{
+    height:490px;
+}
+#showcase-right{
+    margin-top:70px;
+}
+#showcase-right h1{
+    font-size:52px;
+}
+#showcase-right p{
+    color:#777;
+}
+button{
+    background:transparent;
+    border:1px solid #777;
+    padding:4px 6px;
+    margin-top:10px;
+    border-radius:3px;
+    color:#000;
+}
+#quote{
+    margin-top:80px;
+    font-family:'josefin sans';
+}
+#home-right{
+    margin-top:50px;
+}
+#google-home p{
+    color:#777;
+}
+#google-home{
+    font-family:roboto;
+}
+#contact{
+    background-image:url("C:/Users/HP/Downloads/techscroll (1)/techscroll/img/image3.png");
+    background-repeat:no-repeat;
+    margin-top:30px;
+}
+#contact form{
+    margin-top:60px;
+    margin-bottom:60px;
+    color:#fff;
+}
